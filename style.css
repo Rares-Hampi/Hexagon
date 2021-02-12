@@ -28,11 +28,3 @@
   border-top: 43.30px solid rgb(255, 255, 0);
 } 
 
-
-.inner:after {
-  height: 53px;
-  right: 3px;
-  left: auto;
-  bottom: -13px;
-  top: auto;
-}
